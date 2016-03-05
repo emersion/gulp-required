@@ -22,6 +22,6 @@ gulp.task('required', function () {
 });
 ```
 
-## Licence
+## License
 
 MIT
